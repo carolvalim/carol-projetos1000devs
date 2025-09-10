@@ -1,0 +1,13 @@
+# Exercícios do 1000 Devs
+
+Este repositório contém todos os exercícios feitos durante o curso 1000 Devs.  
+
+## Organização
+
+- `java/` → Exercícios em Java
+- `html+css/` → Exercícios em Python
+- `javascript/` → Exercícios em JavaScript
+- `outros/` → Outros exercícios ou materiais extras
+
+Cada exercício está em sua própria pasta com o arquivo de código correspondente.
+
